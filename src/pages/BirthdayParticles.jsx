@@ -20,7 +20,7 @@ export default function BirthdayParticles() {
     { text: "1", font: `700 ${responsiveFontSize(200, 100, 240)}px sans-serif`, color: "#ffffff" },
     { text: "HAPPY", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
     { text: "BIRTHDAY", font: `700 ${responsiveFontSize(140, 60, 180)}px sans-serif`, color: "#ffffff" },
-    { text: "LAURA", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
+    { text: "Beyii", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
     { text: "HAPPY +20", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
   ];
 
