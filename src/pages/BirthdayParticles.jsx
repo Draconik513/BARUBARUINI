@@ -19,9 +19,9 @@ export default function BirthdayParticles() {
     { text: "2", font: `700 ${responsiveFontSize(200, 100, 240)}px sans-serif`, color: "#ffffff" },
     { text: "1", font: `700 ${responsiveFontSize(200, 100, 240)}px sans-serif`, color: "#ffffff" },
     { text: "HAPPY", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
-    { text: "GIRLFRIEND", font: `700 ${responsiveFontSize(140, 60, 180)}px sans-serif`, color: "#ffffff" },
-    { text: "EBY💗", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
-    { text: "SEMANGAT\n KERJANYA", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
+    { text: "BIRTHDAY", font: `700 ${responsiveFontSize(140, 60, 180)}px sans-serif`, color: "#ffffff" },
+    { text: "GEK ALINN💗", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
+    { text: "HAPPY +18", font: `700 ${responsiveFontSize(140, 70, 180)}px sans-serif`, color: "#ffffff" },
   ];
 
   function hexToRgb(hex) {
